@@ -34,9 +34,14 @@ A basic graphical calculator built using Haskell to perform simple arithmetic op
 
 💡 Note: If this project uses any external Haskell packages (e.g., GTK bindings), make sure they are installed.
 
-📂 Folder Contents
+---
+
+📂 Folder Contents:
+
 Calculator/
+
 ├── calculator.hs   # Main Haskell source file
+
 └── README.md       # Project documentation
 
 

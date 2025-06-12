@@ -32,11 +32,11 @@ A basic graphical calculator built using Haskell to perform simple arithmetic op
     ./calculator
 
 
-💡 Note: If this project uses any external Haskell packages (e.g., GTK bindings), make sure they are installed.
+## 💡 Note: If this project uses any external Haskell packages (e.g., GTK bindings), make sure they are installed.
 
 ---
 
-📂 Folder Contents:
+## 📂 Folder Contents:
 
 Calculator/
 

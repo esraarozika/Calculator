@@ -1,4 +1,4 @@
-<img width="442" alt="Screenshot 2025-06-12 at 8 53 15 PM" src="https://github.com/user-attachments/assets/87ea4802-54b8-4b94-96fc-d5e6ba931544" /># 🧮 GUI Calculator in Haskell
+## 🧮 GUI Calculator in Haskell
 
 A basic graphical calculator built using Haskell to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -47,4 +47,4 @@ Calculator/
 
 
 ## 📸 Screenshot
-
+<img width="442" alt="Screenshot 2025-06-12 at 8 53 15 PM" src="https://github.com/user-attachments/assets/87ea4802-54b8-4b94-96fc-d5e6ba931544" />#

@@ -38,12 +38,12 @@ If this project uses any external Haskell packages (e.g., GTK bindings), make su
 ---
 
 ## 📂 Folder Contents:
+<pre>
+   Calculator/
+   ├── calculator.hs   # Main Haskell source file
+   └── README.md       # Project documentation
+</pre>
 
-Calculator/
-
-├── calculator.hs   # Main Haskell source file
-
-└── README.md       # Project documentation
 
 
 ## 📸 Screenshot
